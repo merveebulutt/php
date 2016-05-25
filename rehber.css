@@ -1,0 +1,32 @@
+@charset "utf-8";
+body{
+	text-align:justify;
+	background:#ffffff;
+	}
+.cerceve {
+	background-color: #0CF;
+	margin:auto;
+	padding: 1px;
+	height: 863px;
+	width: 600px;
+	border-radius:10px;
+}
+.cerceve .ustalan {
+	background-color: #CC6;
+	height: 80px;
+	width: 600px;
+	margin:auto;
+	border-radius:5px;
+	border-top-left-radius:10px;
+	border-top-right-radius:10px;
+}
+.cerceve #ortaalan {
+	background-color: #C33;
+	height: 781px;
+	width: 599px;
+	padding:1px;
+	border-bottom-left-radius:10px;
+	border-bottom-right-radius:10px;
+	
+}
+
